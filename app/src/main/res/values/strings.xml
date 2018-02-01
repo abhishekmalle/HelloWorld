@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="editMessage">Enter a message here</string>
+    <string name="button">Press this Button</string>
+</resources>
